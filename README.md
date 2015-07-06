@@ -24,20 +24,6 @@ Prerequisite
 6. TTL to Serial USB cable (E.g. TTL-232R)
 7. Have an account on AirVantage server : eu.airvantage.net
 
-{{% collapse id="bom" text="Part references, for information" %}}
-* [AirPrime HL series module](http://www.sierrawireless.com/productsandservices/airprime_wireless_modules/essential_modules/hl_series/)
-* [Arduino Mega 2560](https://www.arduino.cc/en/Main/ArduinoBoardMega2560)
-* HL Shield. Please contact Sierra Wireless sale representative
-* [Antenna](http://fr.farnell.com/pulse-engineering/w1900/antenne-ext-penta-sma-artic/dp/1900068?ost=antenna+ex+penta+sma+artic)
-* [Power adapter 12Vdc 1.5A](http://fr.rs-online.com/web/p/alimentations-enfichables/7212203/)
-* [USB Hub](http://fr.rs-online.com/web/p/hubs-usb/7873404/)
-* [TTL to Serial USB cable](http://fr.rs-online.com/web/p/kits-de-developpement-pour-interfaces/7676200/)
-* [USB-A to USB-B cable](http://fr.rs-online.com/web/p/cordons-usb/7903931/)
-* [USB-A to MiniUSB cable](http://fr.rs-online.com/web/p/cordons-usb/7903678/)
-* [Passive Infra-Red (PIR) motion sensor](http://fr.rs-online.com/web/p/kits-de-developpement-pour-interfaces/7813024/)
-* [LED](http://fr.rs-online.com/web/p/led/7088022/)
-* [Wiring cables](http://www.miniinthebox.com/dupont-wire-female-to-female-cable-line-41p-41p-test-lines-connector-10cm-201211270080013_p480341.html)
-{{% /collapse %}}
 
 Library Installation
 --------------------
