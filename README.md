@@ -6,9 +6,11 @@ This Arduino Library enables your Arduino-based system, equiped with Sierra Wire
 * Sending actuator commands or configuration data from AirVantage to Arduino
 
 This library provides 3 functionalities:
-	1. Module management: setting SIM pin code, setting APN, making data call, etc…
-	2. MQTT Client: managing MQTT session with AirVantage, sending/receiving MQTT packets over AT commands. MQTT packets are generated and handled by [Paho MQTTClient library](https://www.eclipse.org/downloads/download.php?file=/paho/arduino_1.0.0.zip) which implements MQTT protocol.
-	3. Log output facility: SWI_TRACE macro enables the Arduino app to output debug traces to a virtual serial port. This latter function is emulated on Arduino pins 12 & 13 (by default) and trace logs are visible with a serial monitor application bound to the TTL to serial USB port.
+
+1. Module management: setting SIM pin code, setting APN, making data call, etc…
+2. MQTT Client: managing MQTT session with AirVantage, sending/receiving MQTT packets over AT commands.
+MQTT packets are generated and handled by [Paho MQTTClient library](https://www.eclipse.org/downloads/download.php?file=/paho/arduino_1.0.0.zip) which implements MQTT protocol.
+3. Log output facility: SWI_TRACE macro enables the Arduino app to output debug traces to a virtual serial port. This latter function is emulated on Arduino pins 12 & 13 (by default) and trace logs are visible with a serial monitor application bound to the TTL to serial USB port.
 
 An sample sketch is provided as a Quick Start to publish data to and to receive data from AirVantage, without typing a single line of code.
 This Quick Start sample Arduino sketch is intended to be used as a starting point to easily build AirVantage-MQTT-ready application.
