@@ -1,7 +1,7 @@
 SWIR_MQTTClient
 ===============
 
-This Library enables your Arduino-based or STM32-Nucleo-based Device, equiped with Sierra Wirelss AirPrime HL series wireless module, to easily exchange data over MQTT with Sierra Wireless AirVantage server:
+This Library enables your __Arduino__-based or __STM32-Nucleo__-based Device, equiped with Sierra Wirelss AirPrime HL series wireless module, to easily exchange data over MQTT with Sierra Wireless AirVantage server:
 * Sending custom data such as sensor values or application data from Device to AirVantage
 * Sending actuator commands or configuration data from AirVantage to Device (Arduino or STM32-Nucleo)
 
