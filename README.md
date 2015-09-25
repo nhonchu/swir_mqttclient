@@ -44,7 +44,7 @@ Library Installation for mbed/STM32-Nucleo
 * Launch mbed IDE
 * Import SWIR_MQTTClient library
     * In mbed IDE, select __Import__
-    * In Upload tab, select the SWIR_MQTTClient lib zip file (e.g. SWIR_MQTTClient V0.91.zip)
+    * In Upload tab, select the SWIR_MQTTClient lib zip file (e.g. SWIR_MQTTClient V0.92.zip)
 * Import Paho MQTTClient library
 	* In Upload tab, select the prebuilt Arduino port of Paho MQTTClient lib zip file [available here](https://www.eclipse.org/downloads/download.php?file=/paho/arduino_1.0.0.zip)
 * Import __mbed__ C/C++ SDK from the Import/Libraries tab: Drag the lib package and drop it into your project
