@@ -33,7 +33,7 @@ Library Installation for Arduino
 * Launch Arduino IDE
 * Import SWIR_MQTTClient library
     * In Arduino IDE, go to __Sketch__ menu, select __Include Library__, then __Add .ZIP Library...__
-    * Select the SWIR_MQTTClient lib zip file (e.g. SWIR_MQTTClient V0.8.zip)
+    * Select the SWIR_MQTTClient lib zip file (e.g. SWIR_MQTTClient V0.92.zip)
 * Import Paho MQTTClient library
     * Download the prebuilt Arduino port of Paho MQTTClient [here](https://www.eclipse.org/downloads/download.php?file=/paho/arduino_1.0.0.zip)
     * In Arduino IDE, go to __Sketch__ menu, select __Include Library__, then __Add .ZIP Library...__
