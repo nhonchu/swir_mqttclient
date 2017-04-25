@@ -21,11 +21,10 @@ Prerequisite
 1. HL Shield + Antenna + Power adaptor + USB cable MiniB-A
 2. AirPrime HL series Module (tested with HL8518, HL8548, HL6)
 3. SIM card with data call plan
-4.a Arduino Mega2560 or Leonardo + USB cable type B-A
-       or
-4.b mangOH Green +  + USB cable type B-A
-       or
-4.c STM32-Nucleo (tested on L053R8) + USB cable type B-A
+4. IoT hardware platform, one of the following :
+    * Arduino Mega2560 or Leonardo + USB cable type B-A
+    * mangOH Green + USB cable type B-A
+    * STM32-Nucleo (tested on L053R8) + USB cable type B-A
 5. TTL to Serial USB cable (E.g. TTL-232R)
 6. Have an account on AirVantage server : eu.airvantage.net
 
