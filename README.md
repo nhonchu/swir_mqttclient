@@ -1,7 +1,7 @@
 SWIR_MQTTClient
 ===============
 
-New Version: V1.0. Now supports mangOH Green !
+New Version: V1.0. Now supports [mangOH Green](http://mangoh.io/) !
 
 This Library enables your __Arduino__-based or __STM32-Nucleo__-based Device, equiped with __Sierra Wirelss AirPrime HL series wireless module__, to easily exchange data over __MQTT__ with __Sierra Wireless AirVantage__ server:
 * Sending custom data such as sensor values or application data from Device to AirVantage
@@ -19,7 +19,7 @@ This Quick Start sample is intended to be used as a starting point to easily bui
 Prerequisite
 ------------
 1. HL Shield + Antenna + Power adaptor + USB cable MiniB-A
-2. AirPrime HL series Module
+2. AirPrime HL series Module (tested with HL8518, HL8548, HL6)
 3. SIM card with data call plan
 4.a Arduino Mega2560 or Leonardo + USB cable type B-A
        or
