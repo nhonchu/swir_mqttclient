@@ -29,8 +29,8 @@ Prerequisite
 6. Have an account on AirVantage server : eu.airvantage.net
 
 
-Library Installation for Arduino
---------------------------------
+Library Installation for Arduino and mangOH Green
+-------------------------------------------------
 * Launch Arduino IDE
 * Import SWIR_MQTTClient library
     * In Arduino IDE, go to __Sketch__ menu, select __Include Library__, then __Add .ZIP Library...__
